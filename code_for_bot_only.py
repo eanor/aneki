@@ -39,7 +39,7 @@ print(str(text))
 
 
 import telebot
-bot = telebot.TeleBot("5248946987:AAEgWI5LUojBD6S5nqcn7VwklC5WuzPtyFU")
+bot = telebot.TeleBot("5248946987:AAEgWI5LUojBD6S5nqcn7VwklC5WuzPtyFU", parse_mode=None)
 
 dict_users_states = {}
 
