@@ -5,8 +5,6 @@
 
 
 import markovify
-import re
-import spacy
 
 
 # In[3]:
